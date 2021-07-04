@@ -1,0 +1,3 @@
+C:/Users/ngadj/Documents/pico-numpad/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/ngadj/Documents/pico-numpad/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/ngadj/Documents/pico-numpad/build/pioasm/CMakeFiles/rebuild_cache.dir
